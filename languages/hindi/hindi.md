@@ -11,7 +11,7 @@ Hindi, written in the Devanagari script, is one of the official languages of the
 
 Number of speakers: 528,347,193 (total includes all dialects/variations) *via:* [Census 2011](../devanagari-overview/Census-of-India-2011-Language.pdf){:target="_blank"}  
 
-ISO Language Code: <html lang="**hi**">  
+ISO Language Code: <html lang=\"**hi**\"\>  
 
 #### More Information Online
 

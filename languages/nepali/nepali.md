@@ -9,7 +9,7 @@ Nepali first started to be used in writing during the 12th century AD. It is wri
 
 Number of speakers: 2,926,168 *via:* [Census 2011](../devanagari-overview/Census-of-India-2011-Language.pdf){:target="_blank"}  
 
-ISO Language Code: <html lang="**ne**">  
+ISO Language Code: <html lang=\"**ne**\"\>  
 
 #### More Information Online
 

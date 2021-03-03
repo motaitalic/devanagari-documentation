@@ -11,7 +11,7 @@ Balbodh became the main script of administration in the Bombay Presidency in Jul
 
 Number of speakers: 83,026,680 *via:* [Census 2011](../devanagari-overview/Census-of-India-2011-Language.pdf){:target="_blank"}  
 
-ISO Language Code: <html lang="**mr**">  
+ISO Language Code: <html lang=\"**mr**\"\>  
 
 #### More Information Online
 

@@ -9,7 +9,7 @@ Konkani was originally written with the Brahmi alphabet, and is currently writte
 
 Number of speakers: 2,256,502 *via:* [Census 2011](../devanagari-overview/Census-of-India-2011-Language.pdf){:target="_blank"}  
 
-ISO Language Code: **not defined**, can possibly use Marathi: <html lang="**mr**">  
+ISO Language Code: **not defined**, can possibly use Marathi: <html lang=\"**mr**\"\>  
 
 #### More Information Online
 

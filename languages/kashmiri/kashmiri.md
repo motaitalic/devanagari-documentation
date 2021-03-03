@@ -9,7 +9,7 @@ Kashmiri first appeared in writing during the 8th century AD in the Sharda alpha
 
 Number of speakers: 6,797,587 *via:* [Census 2011](../devanagari-overview/Census-of-India-2011-Language.pdf){:target="_blank"}  
 
-ISO Language Code: <html lang="**ks**">  
+ISO Language Code: <html lang=\"**ks**\"\>  
 
 #### More Information Online
 
