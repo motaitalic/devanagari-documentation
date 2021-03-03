@@ -9,7 +9,9 @@ In 2011 there were about 1.7 million speakers of Sindhi in India in the states o
 
 Sindhi first appeared in writing in the 8th century AD and a number of different scripts have been used to write it. Sindhi literature, in particular lyric poetry, began to appear towards the end of the 15th century.
 
-Number of speakers: 2,772,264 *via:* [Census 2011](../devanagari-overview/Census-of-India-2011-Language.pdf){:target="_blank"}
+Number of speakers: 2,772,264 *via:* [Census 2011](../devanagari-overview/Census-of-India-2011-Language.pdf){:target="_blank"}  
+
+ISO Language Code: <html lang="**sd**">  
 
 #### More Information Online
 

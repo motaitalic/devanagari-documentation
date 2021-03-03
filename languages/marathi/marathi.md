@@ -9,7 +9,9 @@ Marathi first appeared in writing in 739 AD on a copper-plate inscription found 
 
 Balbodh became the main script of administration in the Bombay Presidency in July 1917. The Modi script continued to be used and taught in schools until the 1940s however. Since then Balbodh has been the main script for Marathi, although there is a movement to revive the Modi script.
 
-Number of speakers: 83,026,680 *via:* [Census 2011](../devanagari-overview/Census-of-India-2011-Language.pdf){:target="_blank"}
+Number of speakers: 83,026,680 *via:* [Census 2011](../devanagari-overview/Census-of-India-2011-Language.pdf){:target="_blank"}  
+
+ISO Language Code: <html lang="**mr**">  
 
 #### More Information Online
 

@@ -9,7 +9,9 @@ The Central / Madhubani dialect, or Sotipura, is considered the standard form of
 
 Maithili was formerly written with the Maithili script, which is also known as Mithilākṣar or Tirăhutā, and developed from the Brahmi script during the 1st century AD. It has also been written with the Kaithi script. During the 20th century Devanagari became the most commonly used for Maithili.
 
-Number of speakers: 13,583,464 *via:* [Census 2011](../devanagari-overview/Census-of-India-2011-Language.pdf){:target="_blank"}
+Number of speakers: 13,583,464 *via:* [Census 2011](../devanagari-overview/Census-of-India-2011-Language.pdf){:target="_blank"}  
+
+ISO Language Code: **not defined**  
 
 #### More Information Online
 

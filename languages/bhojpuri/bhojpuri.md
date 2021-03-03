@@ -16,7 +16,9 @@ Number of speakers: 50,579,447 *via:* [Census 2011](../devanagari-overview/Censu
 [Omniglot](https://omniglot.com/writing/bhojpuri.htm){:target="_blank"}  
 [OLAC](http://www.language-archives.org/language/bho){:target="_blank"}  
 [Glottolog](https://glottolog.org/resource/languoid/id/bhoj1244){:target="_blank"}  
-[Scriptsource](https://www.scriptsource.org/cms/scripts/page.php?item_id=language_detail&key=bho){:target="_blank"}
+[Scriptsource](https://www.scriptsource.org/cms/scripts/page.php?item_id=language_detail&key=bho){:target="_blank"}  
+
+ISO Language Code: **not defined**  
 
 
 -----

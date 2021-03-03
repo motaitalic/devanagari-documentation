@@ -9,7 +9,9 @@ There are many dialects of Rajasthani, including: Bagri, Shekhawati, Marwari, Dh
 
 Rajasthani was considered a dialect of Hindi in the 19th and early 20th century. It is now considered a distinct language and is recognised as a state language by the government of Rajasthan. Rajasthani is written with the Devanāgarī alphabet in India, and with the Perso-Arabic alphabet in Pakistan.
 
-Number of speakers: 25,806,344 *via:* [Census 2011](../devanagari-overview/Census-of-India-2011-Language.pdf){:target="_blank"}
+Number of speakers: 25,806,344 *via:* [Census 2011](../devanagari-overview/Census-of-India-2011-Language.pdf){:target="_blank"}  
+
+ISO Language Code: **not defined**  
 
 #### More Information Online
 

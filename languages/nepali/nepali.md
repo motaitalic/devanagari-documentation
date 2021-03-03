@@ -7,7 +7,9 @@ Nepali is an Indo-Aryan language spoken in Nepal, Bhutan, Burma and India. Nepal
 
 Nepali first started to be used in writing during the 12th century AD. It is written with the Devanagari alphabet, which developed from the Brahmi script in the 11th century AD.
 
-Number of speakers: 2,926,168 *via:* [Census 2011](../devanagari-overview/Census-of-India-2011-Language.pdf){:target="_blank"}
+Number of speakers: 2,926,168 *via:* [Census 2011](../devanagari-overview/Census-of-India-2011-Language.pdf){:target="_blank"}  
+
+ISO Language Code: <html lang="**ne**">  
 
 #### More Information Online
 

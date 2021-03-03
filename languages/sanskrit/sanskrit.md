@@ -13,7 +13,10 @@ Since the late 19th century, Sanskrit has been written mostly with the Devanāga
 
 Since the late 18th century, Sanskrit has also been written with the Latin alphabet. The most commonly used system is the International Alphabet of Sanskrit Transliteration (IAST), which has been the standard for academic work since 1912.
 
-Number of speakers: 24,821 *via:* [Census 2011](../devanagari-overview/Census-of-India-2011-Language.pdf){:target="_blank"}
+Number of speakers: 24,821 *via:* [Census 2011](../devanagari-overview/Census-of-India-2011-Language.pdf){:target="_blank"}  
+
+ISO Language Code: <html lang="**sa**">  
+
 
 #### More Information Online
 

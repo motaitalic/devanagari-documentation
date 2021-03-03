@@ -7,7 +7,9 @@ Dogri is an Indo-Aryan language spoken in India, chiefly in the Jammu region of 
 
 Dogri has several varieties, all with greater than 80% lexical similarity (within Jammu and Kashmir). Dogri is one of the 22 official languages of India. It was added in the 8th schedule of the constitution in 2001. Dogri was originally written using the Dogri script. It is now more commonly written in Devanagari in India, and in the Nastaʿliq form of Perso-Arabic in Pakistan and Pakistani-administered Kashmir. The Dogra Script was standardised from Chambeali Takri Script during the Dogra rule.
 
-Number of speakers: 2,596,767 *via:* [Census 2011](../devanagari-overview/Census-of-India-2011-Language.pdf){:target="_blank"}
+Number of speakers: 2,596,767 *via:* [Census 2011](../devanagari-overview/Census-of-India-2011-Language.pdf){:target="_blank"}  
+
+ISO Language Code: **not defined**  
 
 #### More Information Online
 

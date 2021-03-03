@@ -7,7 +7,9 @@ Kashmiri is a member of the Dardic subgroup of the Indo-Aryan language family. I
 
 Kashmiri first appeared in writing during the 8th century AD in the Sharda alphabet, which is still used in religious ceremonies by Kashmiri Pandits. After the arrival of Islam in Kashmir during the 15th century, the Arabic script was adapted to write Kashmiri. Today Kashmiri Muslims write their language with the Arabic script, and Kashmiri Hindus used the Devanagari alphabet. Kashmiri is one of the official languages of India, and is taught in schools in the Kashmir valley. It is also used in literature, newspapers, on the radio, and in other media.
 
-Number of speakers: 6,797,587 *via:* [Census 2011](../devanagari-overview/Census-of-India-2011-Language.pdf){:target="_blank"}
+Number of speakers: 6,797,587 *via:* [Census 2011](../devanagari-overview/Census-of-India-2011-Language.pdf){:target="_blank"}  
+
+ISO Language Code: <html lang="**ks**">  
 
 #### More Information Online
 

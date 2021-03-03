@@ -7,7 +7,9 @@ Konkani is an Indo-Aryan language spoken in the Indian states of Goa, Karnataka,
 
 Konkani was originally written with the Brahmi alphabet, and is currently written with a number of other alphabets. In Goa, Devanagari is the official script for Konkani, though the Latin alphabet is also popular. In the state of Karnataka, it is written with the Kannada alphabet. In Kerala it is written with the Malayalam alphabet, and Konkani Muslims in Maharashtra use the Arabic alphabet.
 
-Number of speakers: 2,256,502 *via:* [Census 2011](../devanagari-overview/Census-of-India-2011-Language.pdf){:target="_blank"}
+Number of speakers: 2,256,502 *via:* [Census 2011](../devanagari-overview/Census-of-India-2011-Language.pdf){:target="_blank"}  
+
+ISO Language Code: **not defined**, can possibly use Marathi: <html lang="**mr**">  
 
 #### More Information Online
 

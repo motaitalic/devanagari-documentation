@@ -9,7 +9,9 @@ Hindi is the main language used in the northern Indian states of Rajasthan, Delh
 
 Hindi, written in the Devanagari script, is one of the official languages of the government of India. Hindi first started to be used in writing during the 4th century AD. It was originally written with the Brahmi script but since the 11th century AD it has been written with the Devanāgarī alphabet.
 
-Number of speakers: 528,347,193 (total includes all dialects/variations) *via:* [Census 2011](../devanagari-overview/Census-of-India-2011-Language.pdf){:target="_blank"}
+Number of speakers: 528,347,193 (total includes all dialects/variations) *via:* [Census 2011](../devanagari-overview/Census-of-India-2011-Language.pdf){:target="_blank"}  
+
+ISO Language Code: <html lang="**hi**">  
 
 #### More Information Online
 

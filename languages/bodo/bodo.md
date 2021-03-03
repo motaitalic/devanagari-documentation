@@ -9,7 +9,9 @@ There are three main dialects of Bodo: Western Bodo, Eastern Bodo and Southern B
 
 Bodo has been used as a medium of instruction in primary schools in Bodo-speaking areas since 1963. It is also used in secondary schools and in one university
 
-Number of speakers: 1,482,929 *via:* [Census 2011](../devanagari-overview/Census-of-India-2011-Language.pdf){:target="_blank"}
+Number of speakers: 1,482,929 *via:* [Census 2011](../devanagari-overview/Census-of-India-2011-Language.pdf){:target="_blank"}  
+
+ISO Language Code: **not defined**  
 
 #### More Information Online
 
