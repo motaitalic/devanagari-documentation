@@ -20,11 +20,6 @@
 
 	<p class="changesizeBhojpuri1" style="font-size: 72px; line-height: 120%;">
 		भोजपुरी समाज आ संस्कृति में गीत गवनई के बहुत बड़हन महत्व होला. जीवन के हर मोड़ पर भोजपुरी गाना अपना पूरा रस का साथ मौजूद रहेला</p>
-	</p>
-
-	<p class="sizelabel" style="margin-top: 30px">Special Characters</p>
-	<p class="changesizeBhojpuri1" style="font-size: 60px; line-height: 110%;">
-		—
 
 		<br />
 		<br />

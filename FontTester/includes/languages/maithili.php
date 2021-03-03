@@ -20,11 +20,6 @@
 
 	<p class="changesizeMaithili1" style="font-size: 72px; line-height: 120%;">
 		कोनो-कोनो स्वर-ध्वनि अपना जगहसँ हटि कऽ दोसर ठाम चलि जाइत अछि। खास कऽ ह्रस्व इ आ उक सम्बन्धमे ई बात लागू होइत अछि
-	</p>
-
-	<p class="sizelabel" style="margin-top: 30px">Special Characters</p>
-	<p class="changesizeMaithili1" style="font-size: 60px; line-height: 110%;">
-		—
 
 		<br />
 		<br />

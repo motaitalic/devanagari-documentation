@@ -21,10 +21,6 @@
 	<p class="changesizeBodo1" style="font-size: 72px; line-height: 120%;">
 		बर’ बिजों आरो बेनि इयुननि सोमोन्दै सावरायनो थांनायनि सिगाङावनो बर’ थुनलाइ आफादनि सोमोनदै एसेब्लाबो रायखांग्रोनांगौ जायो</p>
 
-	<p class="sizelabel" style="margin-top: 30px">Special Characters</p>
-	<p class="changesizeBodo1" style="font-size: 60px; line-height: 110%;">
-		—
-
 		<br />
 		<br />
 	</p>

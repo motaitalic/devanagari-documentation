@@ -24,12 +24,12 @@
 
 	<p class="sizelabel" style="margin-top: 30px">Special Characters</p>
 	<p class="changesizeSanskrit1" lang="sa" style="font-size: 60px; line-height: 110%;">
-		ॠ &nbsp; ॡ &nbsp; ऀ &nbsp;  ॑
+		ॠ &nbsp; ऌ &nbsp; ॡ &nbsp;  ॢ &nbsp;  ॣ &nbsp;  ऀ &nbsp;  ॑
 	</p>
 
 	<p class="sizelabel" style="margin-top: 30px">Vedic Marks</p>
 	<p class="changesizeSanskrit1" lang="sa" style="font-size: 60px; line-height: 110%;">
-		—</p>
+		<em>pending</em></p>
 
 		<br />
 		<br />

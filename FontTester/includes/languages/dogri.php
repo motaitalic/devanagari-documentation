@@ -22,10 +22,6 @@
 		उपन्यासै च उ’नेँ ञ्‍यानेँ दी गै आधार बनाया गेदा ऎ जेह्डे अपनियां अक्खां गै गुरबत दी गुदडी च खोलदे न ते सारी उमर मेह्नत करने दे बाद बी सिर चुक्‍कियै जी नेईँ सकदे
 	</p>
 
-	<p class="sizelabel" style="margin-top: 30px">Special Characters</p>
-	<p class="changesizeDogri1" style="font-size: 60px; line-height: 110%;">
-		—
-
 		<br />
 		<br />
 	</p>
