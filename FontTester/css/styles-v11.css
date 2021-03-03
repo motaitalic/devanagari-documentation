@@ -1,0 +1,388 @@
+html {
+	margin:0px;
+	padding:0px;
+}
+
+body {
+	background: white;
+	color: black;
+	padding: 0px;
+	margin: 0px;
+	font-family: 'Noto Sans', -apple-system , BlinkMacSystemFont, sans-serif;
+}
+
+section {
+	display: block;
+	float: left;
+	margin: 0;
+	width: 100%;
+}
+
+div {
+	outline: none;
+}
+
+h1, h2, h3, h4 {
+	font-size: 25px;
+	font-family: 'Noto Sans', -apple-system , BlinkMacSystemFont, sans-serif;
+	font-weight: normal;
+}
+
+p {
+	font-size: 16px;
+	padding: 0px;
+	margin: 0px;
+}
+
+#top {
+	width: 100%;
+}
+
+header {
+	background: #ccc;
+	padding: 40px 0px 10px 30px;
+	margin:0;
+}
+
+header:hover {
+	background: #21a119;
+}
+
+header h1 {
+	margin: 0;
+}
+
+header p {
+	margin-left: -20px;
+	margin-top: -7px;
+}
+
+p#generatedcode {
+	margin: 0;
+	padding: 0;
+	font: normal 12px/1 Helvetica, sans-serif;
+}
+
+p#csscode {
+	margin: 0;
+	padding: 0;
+	font: normal 12px/1 Helvetica, sans-serif;
+}
+
+#fonts {
+	margin: 0;
+	padding: 0px 0px 0px 30px;
+	background: rgba(0, 187, 0, .8);
+	position: fixed;
+	/*left: 20px;*/
+	top: 0px;
+	width: 100%;
+}
+
+#fonts li {
+	display: block;
+	color: #000;
+	list-style: none;
+	cursor: pointer;
+	margin: 0px 10px 0px 0px;
+	float: left;
+	padding: 1px 0px 2px 6px;
+	border-radius: 4px;
+}
+
+#fonts li span {
+	margin: 6px 6px 6px 0px;
+	font-size: 20px;
+}
+
+#fonts li.active {
+	background: #333333;
+	color: #fff;
+}
+
+#fonts li:hover {
+	color: #fff;
+}
+
+#custom {
+/*	margin: 0;
+	padding: 0;
+*/}
+
+#custom p {
+/*	margin: 2px 0px 4px 0px;
+	padding: 0 0 0 14px;*/
+	outline: none;
+}
+
+p.sizelabel {
+	color: #21a119;
+	font-family: 'Noto Sans', -apple-system , BlinkMacSystemFont, sans-serif !important;
+	font-size: 15px;
+	line-height: 15px;
+	font-style: normal;
+	margin: 5px 0;
+}
+
+p.namelabel {
+	color: #21a119;
+	font-family: 'Noto Sans', -apple-system , BlinkMacSystemFont, sans-serif !important;
+	font-size: 25px;
+	margin: 5px 0;
+}
+
+.tabs {
+	clear: both;
+	margin: 0 2% 0 0;
+	padding: 10px 0px 0px 20px;
+}
+
+div.tabs > div h2 {
+	margin-top: 0;
+	padding: 5px 10px 5px 10px;
+}
+
+div.tabs > div {
+	width: 100%;
+	overflow:auto;
+	clear: both;
+	padding-top: 20px;
+}
+
+UL.tabNavigation {
+	width: 99%;
+	float: left;
+	margin: 5px 0 0 0;
+}
+
+UL.tabNavigation LI, UL.tabNavigation LI A {
+	display: block;
+	float: left;
+	font-family: 'Noto Sans', -apple-system , BlinkMacSystemFont, sans-serif !important;
+	font-size: 13px;
+	color: #000000;
+	letter-spacing: 1px;
+	text-align: center;
+	text-decoration: none;
+	white-space:nowrap;
+	list-style-type: none;
+	display: inline-block;
+	text-transform: uppercase;
+	list-style: none;
+	background-color: #ccc;
+	border-radius: 4px;
+}
+
+UL.tabNavigation LI A:hover {
+	background-color: #21a119;
+}
+
+UL.tabNavigation LI A {
+	padding: 5px 14px;
+}
+
+UL.tabNavigation LI {
+	margin: 0 3px 3px 0;
+}
+
+UL.tabNavigation LI A.selected {
+	background-color: #333333;
+	color: #fff;
+}
+
+UL.tabNavigation LI A:focus {
+	outline: 0;
+}
+
+#ruder td {
+	font-size: 32px;
+	line-height: 1;
+	margin: 0;
+	padding: 4px;
+}
+
+.textsettingCol2 {
+	-moz-column-count: 2;
+	-moz-column-gap: 20px;
+	-webkit-column-count: 2;
+	-webkit-column-gap: 20px;
+	column-count: 2;
+	column-gap: 20px;
+	outline: none;
+}
+
+.textsettingCol3 {
+	-moz-column-count: 3;
+	-moz-column-gap: 20px;
+	-webkit-column-count: 3;
+	-webkit-column-gap: 20px;
+	column-count: 3;
+	column-gap: 20px;
+	outline: none;
+}
+
+.textsettingCol2 p, .textsettingCol3 p {
+	break-inside: auto;
+}
+
+.textsettingCol2 .sizelabel, .textsettingCol3 .sizelabel, .textsettingCol2 .textline, .textsettingCol3 .textline {
+	break-after: avoid-column;
+	-webkit-column-break-after: avoid;
+}
+
+.lowercase {
+	text-transform: lowercase;
+}
+
+.capitalized {
+	text-transform: capitalize;
+}
+
+.uppercase {
+	text-transform: uppercase;
+}
+
+.extra {
+	font-family: 'Noto Sans', -apple-system , BlinkMacSystemFont, sans-serif !important;
+	font-size: 14px;
+	letter-spacing: 1px;
+	padding: 10px 0 10px 20px;
+}
+
+a, a:link, a:visited {
+	color: #21a119;
+	outline: none;
+}
+
+#toggleotfeatures, #otfeatures {
+	display: none;
+}
+
+#footer, #footer p {
+	padding: 20px 0 10px 24px;
+	width: auto;
+	font-size: 12px;
+	line-height: 20px;
+	color: #999;
+	font-family: 'Noto Sans', -apple-system , BlinkMacSystemFont, sans-serif !important;
+}
+
+#footer p a {
+	color: #999;
+	box-shadow: inset 0 -4px 0 rgba(0, 0, 0, .1);
+	border-bottom: 4px solid rgba(0, 0, 0, .1);
+	text-decoration: none;
+}
+
+#footer p a:hover {
+	color: #00AF00;
+	box-shadow: inset 0 -3px 0 #21a119;
+	border-bottom: 4px solid #21a119;
+	text-decoration: none;
+}
+
+::selection {
+	background: #21a119;
+	color: #000;
+}
+::-moz-selection {
+	background: #21a119;
+	color: #000;
+}
+
+.inline {
+	display: inline-block;
+	margin-right: 20px;
+}
+
+table {
+	table-layout: fixed;
+	width: 100%;
+	border-collapse: collapse;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+thead th:nth-child(1) {
+  width: 8%;
+  
+}
+
+thead th:nth-child(2) {
+  width: 25%;
+}
+
+thead th:nth-child(3) {
+  width: 32%;
+
+}
+
+thead th:nth-child(4) {
+  width: 35%;
+}
+
+th {
+	color: #21a119;
+	padding: 10px 0;
+	font-weight: normal;
+	text-align: left;
+	font-family: 'Noto Sans', -apple-system , BlinkMacSystemFont, sans-serif !important;
+}
+
+td {
+	text-align: left;
+	font-size: 40px;
+	text-align: center;
+}
+
+td.col34 {
+	padding: 10px 0;
+	font-family: 'Noto Sans', -apple-system , BlinkMacSystemFont, sans-serif !important;
+	font-size: 15px;
+	text-align: left;
+}
+
+td.col1 {
+	padding: 10px 0;
+	font-family: 'Noto Sans', -apple-system , BlinkMacSystemFont, sans-serif !important;
+	font-size: 15px;
+	text-align: right;
+}
+
+/*#toggleotfeatures {
+	float: left;
+	width: 1460px;
+	margin: 0 20px;
+	padding: 8px 20px;
+	background-color: #ccc;
+}
+
+#otfeatures {
+	float: left;
+	width: 1500px;
+	margin: 0px 20px 10px;
+	padding: 0px 0px 8px;
+	background: #ccc;
+}
+
+#otfeatures table td {
+	padding: 4px 20px;
+}
+
+#toggleotfeatures, #otfeatures {
+	font-family: "Lucida Grande", "Lucida Sans Unicode", Helvetica, sans-serif !important;
+	font-size: 14px;
+}
+
+#toggleotfeatures a {
+	color: #fff;
+	text-decoration: none;
+}
+
+UL.tabNavigation LI.last {
+	margin-right: 0;
+}
+
+#adhesion .sizelabel {
+	padding-top: 20px;
+}*/
