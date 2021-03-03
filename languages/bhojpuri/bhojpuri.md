@@ -9,17 +9,16 @@ Bhojpuri is closely related to Maithili and Magadhi and they are collectively kn
 
 From the 16th century until the mid 20th century Bhojuri was written with the Kaithi script, and also with the Perso-Arabic script. The Kaithi script is still used to a limited extent today, though Devanāgarī is more common and has been used in official documents since 1894.
 
-Number of speakers: 50,579,447 *via:* [Census 2011](../devanagari-overview/Census-of-India-2011-Language.pdf){:target="_blank"}
+Number of speakers: 50,579,447 *via:* [Census 2011](../devanagari-overview/Census-of-India-2011-Language.pdf){:target="_blank"}  
+
+ISO Language Code: **not defined**  
 
 #### More Information Online
 
 [Omniglot](https://omniglot.com/writing/bhojpuri.htm){:target="_blank"}  
 [OLAC](http://www.language-archives.org/language/bho){:target="_blank"}  
 [Glottolog](https://glottolog.org/resource/languoid/id/bhoj1244){:target="_blank"}  
-[Scriptsource](https://www.scriptsource.org/cms/scripts/page.php?item_id=language_detail&key=bho){:target="_blank"}  
-
-ISO Language Code: **not defined**  
-
+[Scriptsource](https://www.scriptsource.org/cms/scripts/page.php?item_id=language_detail&key=bho){:target="_blank"}
 
 -----
 
