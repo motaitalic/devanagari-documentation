@@ -11,7 +11,7 @@ Sindhi first appeared in writing in the 8th century AD and a number of different
 
 Number of speakers: 2,772,264 *via:* [Census 2011](../devanagari-overview/Census-of-India-2011-Language.pdf){:target="_blank"}  
 
-ISO Language Code: <html lang=\"**sd**\"\>  
+ISO 639-3 Language Code: **snd**  
 
 #### More Information Online
 

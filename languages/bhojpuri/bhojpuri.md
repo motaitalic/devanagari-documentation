@@ -11,7 +11,7 @@ From the 16th century until the mid 20th century Bhojuri was written with the Ka
 
 Number of speakers: 50,579,447 *via:* [Census 2011](../devanagari-overview/Census-of-India-2011-Language.pdf){:target="_blank"}  
 
-ISO Language Code: **not defined**  
+ISO 639-3 Language Code: **bho**  
 
 #### More Information Online
 

@@ -1,4 +1,4 @@
-<div style="width: 90%;" contenteditable="true">
+<div style="width: 90%;" lang="dgo" contenteditable="true">
 
 	<p class="sizelabel">Headline <span style="font-weight:bold;"><span id="changedfontsizeDogri1">72</span>px / <span id="changedlineheightDogri1">1.2</span>em</span></p><br/>
 

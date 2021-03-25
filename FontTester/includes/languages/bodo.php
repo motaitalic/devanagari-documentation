@@ -1,4 +1,4 @@
-<div style="width: 90%;" contenteditable="true">
+<div style="width: 90%;" lang="brx" contenteditable="true">
 
 	<p class="sizelabel">Headline <span style="font-weight:bold;"><span id="changedfontsizeBodo1">72</span>px / <span id="changedlineheightBodo1">1.2</span>em</span></p><br/>
 

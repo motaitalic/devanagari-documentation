@@ -11,7 +11,7 @@ Maithili was formerly written with the Maithili script, which is also known as M
 
 Number of speakers: 13,583,464 *via:* [Census 2011](../devanagari-overview/Census-of-India-2011-Language.pdf){:target="_blank"}  
 
-ISO Language Code: **not defined**  
+ISO 639-3 Language Code: **mai**  
 
 #### More Information Online
 

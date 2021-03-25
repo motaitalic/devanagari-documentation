@@ -18,12 +18,12 @@
 		</div>
 		<br />
 
-	<p class="changesizeSindhi1" lang="sd" style="font-size: 72px; line-height: 120%;">
+	<p class="changesizeSindhi1" lang="snd" style="font-size: 72px; line-height: 120%;">
 		सजे॒ भारत जे कुंड कुड़िछ ऐं दुनिया जे जुदा जुदा मुल्कनि में पखिड़ियल सिन्धियुनि ताईं मुफ्त में ऐं सवलाई सां सिन्धी साहित्य पहुचाइण जे मकसद सां
 	</p>
 
 	<p class="sizelabel" style="margin-top: 30px">Special Characters</p>
-	<p class="changesizeSindhi1" lang="sd" style="font-size: 60px; line-height: 110%;">
+	<p class="changesizeSindhi1" lang="snd" style="font-size: 60px; line-height: 110%;">
 		ॻ &nbsp; ॼ &nbsp; ॾ &nbsp; ॿ
 
 		<br />
@@ -47,7 +47,7 @@
 			</script>
 		</div>
 
-	<p class="changesizeSindhi2" lang="sd" style="font-size: 45px; line-height: 120%;">
+	<p class="changesizeSindhi2" lang="snd" style="font-size: 45px; line-height: 120%;">
 		में जे जो आहे जी खे ऐं सिंधी के त ते सां पर भी खां की हो न थी करे है जा को सिन्धी तह ई का बि सिंध इन कयो मां हिक से थो आहिनि हिन इहो लाइ ही भाषा हिंदु था आहिन हिकु ने श्री या करण कई चयो हुन कोन लाई वयो पारां छा नह असां छो कि पई भारत दिल्ली हुई आ लिपी इस हर समाज पाण हू व किया उन वई घर साहिब नाहे तव्हां हिंदुनि पोइ तो ब पंहिंजी गया इहा सिंधु भारतीय थियो सभा सो थे राकेश हाणे साहित्य लिपीअ किताब कया आई अध्यक्ष पंहिंजे वञे ब्लाग दादा जेको असीं सिन्धु सबब एक लखाणीअ यह नई अची मूं पहिंजी दिल हैं हुआ साथ रही पेश वेंदो कहि वियो मूंखे वरी कुछ कम अकादमी सघे प्रोफेसर देवनागरी संत पहिंजे तोडे ताईं सभु जूं कार्यक्रम सा नहीं हिंदुस्तानि सेवा धर्म जून कोई दर्शन सि लिए तूं जेके वया रूप राजस्थान तमाम आयो हे यात्रा हुजे वारी जेकरि जुदा खेनि कोम अपने हूई हा साल बार पाकिस्तान जेका सिंधीअ बोली बाबा कर हि स शुरू विकास रित तक किन कमु एस विषय वारो वठी राष्ट्रीय रहे माँ पयो कंहिं ए अजु हिंदी सरकार सभिनी वरि मन
 
 		<br />
@@ -71,7 +71,7 @@
 			</script>
 		</div>
 
-	<p class="changesizeSindhi3" lang="sd" style="font-size: 28px; line-height: 120%;">
+	<p class="changesizeSindhi3" lang="snd" style="font-size: 28px; line-height: 120%;">
 		इन्सानी हक़नि जो आलमगीर ऐलान
 
 		तआरूफ़

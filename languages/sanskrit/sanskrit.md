@@ -15,8 +15,7 @@ Since the late 18th century, Sanskrit has also been written with the Latin alpha
 
 Number of speakers: 24,821 *via:* [Census 2011](../devanagari-overview/Census-of-India-2011-Language.pdf){:target="_blank"}  
 
-ISO Language Code: <html lang=\"**sa**\"\>  
-
+ISO 639-3 Language Code: **san**  
 
 #### More Information Online
 

@@ -11,7 +11,7 @@ Rajasthani was considered a dialect of Hindi in the 19th and early 20th century.
 
 Number of speakers: 25,806,344 *via:* [Census 2011](../devanagari-overview/Census-of-India-2011-Language.pdf){:target="_blank"}  
 
-ISO Language Code: **not defined**  
+ISO 639-3 Language Code: **raj**  
 
 #### More Information Online
 

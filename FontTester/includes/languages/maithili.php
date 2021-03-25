@@ -1,4 +1,4 @@
-<div style="width: 90%;" contenteditable="true">
+<div style="width: 90%;" lang="mai" contenteditable="true">
 
 	<p class="sizelabel">Headline <span style="font-weight:bold;"><span id="changedfontsizeMaithili1">72</span>px / <span id="changedlineheightMaithili1">1.2</span>em</span></p><br/>
 

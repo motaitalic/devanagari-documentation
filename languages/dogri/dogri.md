@@ -9,7 +9,7 @@ Dogri has several varieties, all with greater than 80% lexical similarity (withi
 
 Number of speakers: 2,596,767 *via:* [Census 2011](../devanagari-overview/Census-of-India-2011-Language.pdf){:target="_blank"}  
 
-ISO Language Code: **not defined**  
+ISO 639-3 Language Code: **dgo**  
 
 #### More Information Online
 
