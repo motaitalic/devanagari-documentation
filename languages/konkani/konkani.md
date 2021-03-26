@@ -48,6 +48,12 @@ Universal Declaration of Human Rights: **Konkani**
  &nbsp;  
 
 
+#### Handwriting Sample
+
+![alt text](/images/Konkani-handwriting-01.png)
+[Full Image](/images/Konkani-handwriting-01.jpg){:target="_blank"} *via:* [Wikiland](https://www.wikiwand.com/en/Canarese_Konkani){:target="_blank"}
+
+
 #### Typography Sample
 
 ![alt text](/images/konkani.png)

@@ -60,6 +60,12 @@ Universal Declaration of Human Rights: **Sindhi**
  &nbsp;  
 
 
+#### Handwriting Sample
+
+![alt text](/images/Sindhi-handwriting-01.png)
+[Full Image](/images/Sindhi-handwriting-01.jpg){:target="_blank"}
+
+
 #### Typography Sample
 
 ![alt text](/images/sindhi.png)

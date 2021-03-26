@@ -66,6 +66,13 @@ Universal Declaration of Human Rights: **Nepali**
 
  &nbsp;  
 
+
+#### Handwriting Sample
+
+![alt text](/images/Nepali-handwriting-01.png)
+[Full Image](/images/Nepali-handwriting-01.jpg){:target="_blank"} *via:* [Shreya Rajbhandari](https://www.quora.com/What-does-your-Nepali-Handwriting-look-like){:target="_blank"}
+
+
 #### Typography Sample
 
 ![alt text](/images/nepali.png)

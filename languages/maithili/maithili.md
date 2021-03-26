@@ -45,6 +45,13 @@ Universal Declaration of Human Rights: **Maithili**
 
 ### Images
 
+
+#### Handwriting Sample
+
+![alt text](/images/Maithili-handwriting-01.png)
+[Full Image](/images/Maithili-handwriting-01.jpg){:target="_blank"} *via:* [notesduniya](https://www.notesduniya.com/product/item/maithili-literature-sekhar-jha-manthan-ias-classnotes){:target="_blank"}
+
+
 #### Typography Sample
 
 ![alt text](/images/maithili.png)

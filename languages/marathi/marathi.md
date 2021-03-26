@@ -55,6 +55,15 @@ Universal Declaration of Human Rights: **Marathi**
 &nbsp;  
 
 
+#### Handwriting Sample
+
+![alt text](/images/Marathi-handwriting-01.png)
+[Full Image](/images/Marathi-handwriting-01.jpg){:target="_blank"} *via:* Kimya Gandhi - Handwriting of Pranay Gujar  
+
+![alt text](/images/Marathi-handwriting-02.png)
+[Full Image](/images/Marathi-handwriting-02.jpg){:target="_blank"} *via:* Kimya Gandhi - Handwriting of Sharad Deshpande
+
+
 #### Typography Sample
 
 ![alt text](/images/marathi.png)

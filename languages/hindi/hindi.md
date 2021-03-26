@@ -64,6 +64,12 @@ Universal Declaration of Human Rights: **Hindi**
  &nbsp;  
 
 
+#### Handwriting Sample
+
+![alt text](/images/Hindi-handwriting-01.png)
+[Full Image](/images/Hindi-handwriting-01.jpg){:target="_blank"} *via:* [A letter by Shrilal Shukla](http://dineshupadhyaya.blogspot.com/2011/10/handwritten-letter-message-from.html){:target="_blank"}
+
+
 #### Typography Sample
 
 ![alt text](/images/hindi.png)
