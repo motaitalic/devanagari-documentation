@@ -52,7 +52,8 @@ Universal Declaration of Human Rights: **Bhojpuri**
 #### Handwriting Sample
 
 ![alt text](/images/Bhojpuri-handwriting-01.png)
-[Full Image](/images/Bhojpuri-handwriting-01.jpg){:target="_blank"} *via:* [@_abhinavnarayan](https://twitter.com/_abhinavnarayan/status/1286188557560950786){:target="_blank"}
+[Full Image](/images/Bhojpuri-handwriting-01.jpg){:target="_blank"} *via:* [@_abhinavnarayan](https://twitter.com/_abhinavnarayan/status/1286188557560950786){:target="_blank"}  
+&nbsp;  
 
 
 #### Typography Sample

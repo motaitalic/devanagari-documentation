@@ -61,7 +61,8 @@ Universal Declaration of Human Rights: **Marathi**
 [Full Image](/images/Marathi-handwriting-01.jpg){:target="_blank"} *via:* Kimya Gandhi - Handwriting of Pranay Gujar  
 
 ![alt text](/images/Marathi-handwriting-02.png)
-[Full Image](/images/Marathi-handwriting-02.jpg){:target="_blank"} *via:* Kimya Gandhi - Handwriting of Sharad Deshpande
+[Full Image](/images/Marathi-handwriting-02.jpg){:target="_blank"} *via:* Kimya Gandhi - Handwriting of Sharad Deshpande  
+&nbsp;  
 
 
 #### Typography Sample

@@ -46,7 +46,8 @@ Universal Declaration of Human Rights: **Bodo**
 #### Handwriting Sample
 
 ![alt text](/images/Bodo-handwriting-01.png)
-[Full Image](/images/Bodo-handwriting-01.jpg){:target="_blank"} *via:* [YouTube](https://www.youtube.com/watch?v=Q37GjgBfn8c){:target="_blank"}
+[Full Image](/images/Bodo-handwriting-01.jpg){:target="_blank"} *via:* [YouTube](https://www.youtube.com/watch?v=Q37GjgBfn8c){:target="_blank"}  
+&nbsp;  
 
 
 #### Typography Sample

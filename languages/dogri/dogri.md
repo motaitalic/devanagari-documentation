@@ -43,7 +43,8 @@ Universal Declaration of Human Rights: **Dogri**
 #### Handwriting Sample
 
 ![alt text](/images/Dogri-handwriting-01.png)
-[Full Image](/images/Dogri-handwriting-01.jpg){:target="_blank"} *via:* [@khajuriamanu](https://twitter.com/khajuriamanu/status/1070223433680781312){:target="_blank"}
+[Full Image](/images/Dogri-handwriting-01.jpg){:target="_blank"} *via:* [@khajuriamanu](https://twitter.com/khajuriamanu/status/1070223433680781312){:target="_blank"}  
+&nbsp;  
 
 
 #### Typography Sample

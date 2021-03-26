@@ -45,7 +45,8 @@ Particular forms/combinations
 #### Handwriting Sample
 
 ![alt text](/images/kashmiri-handwriting-1.png)
-[More from this sample](/images/Fragments of Kashmiri Devotional Verse - Anon.pdf){:target="_blank"}
+[More from this sample](/images/Fragments of Kashmiri Devotional Verse - Anon.pdf){:target="_blank"}  
+&nbsp;  
 
 
 #### Typography Sample

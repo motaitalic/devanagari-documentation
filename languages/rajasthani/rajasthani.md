@@ -48,7 +48,8 @@ Universal Declaration of Human Rights: **Rajasthani**
 #### Handwriting Sample
 
 ![alt text](/images/Rajasthani-handwriting-01.png)
-[Full Image](/images/Rajasthani-handwriting-01.jpg){:target="_blank"} *via:* [Rangilo Rajasthan](http://rajrangilo.blogspot.com/2014/01/rajasthani-poems.html){:target="_blank"}
+[Full Image](/images/Rajasthani-handwriting-01.jpg){:target="_blank"} *via:* [Rangilo Rajasthan](http://rajrangilo.blogspot.com/2014/01/rajasthani-poems.html){:target="_blank"}  
+&nbsp;  
 
 
 #### Typography Sample

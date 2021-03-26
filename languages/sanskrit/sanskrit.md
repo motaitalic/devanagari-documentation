@@ -57,6 +57,7 @@ Universal Declaration of Human Rights: **Sanskrit**
 
 ![alt text](/images/Sanskrit-handwriting-01.png)
 [Full Image](/images/Sanskrit-handwriting-01.jpg){:target="_blank"} *via:* [Paul Hunt](https://www.flickr.com/photos/pauldhunt/2073855833/){:target="_blank"}  
+&nbsp;  
 
 
 #### Typography Sample
