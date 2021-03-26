@@ -24,7 +24,7 @@
 
 	<p class="sizelabel" style="margin-top: 30px">Special Characters</p>
 	<p class="changesizeKonkani1" style="font-size: 60px; line-height: 110%;">
-		ळ &nbsp; <span style="color: #858585;">ल→ </span><span lang="mr">ल</span> &nbsp; <span style="color: #858585;">श→ </span><span lang="mr">श</span> &nbsp; ऱ्ह ऱ्य</p>
+		ळ &nbsp; <span style="color: #858585;">ल→ </span><span lang="kok">ल</span> &nbsp; <span style="color: #858585;">श→ </span><span lang="kok">श</span> &nbsp; ऱ्ह ऱ्य</p>
 
 		<br />
 		<br />
