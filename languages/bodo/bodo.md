@@ -22,7 +22,7 @@ ISO 639-3 Language Code: **brx**
 [ScriptSource](https://www.scriptsource.org/cms/scripts/page.php?item_id=language_detail&key=brx){:target="_blank"}
 
 
------
+---
 
 ## Examples
 
@@ -115,7 +115,7 @@ Example of Bodo text
 [http://www.ugc.ac.in](http://www.ugc.ac.in/netpdf/94.pdf){:target="_blank"}
 
 
------
+---
 
 ## Bibliography / Resources
 
@@ -166,3 +166,12 @@ Wood, Daniel Cody. 2008. *An initial reconstruction of Proto-Boro-Garo.* (MA the
 L. O. Skrefsrud. 1890. Mecherne i Assam og deres Sprog. *Nordisk Tidskrift for Filologi*, N.S. 9. 223-236.
 
 Bara, Madhu Rāma. 2001. *The historical development of the Boro language: Madhu Ram Baro.* Hajo: Priyadini Publ. 120pp.
+
+
+---
+
+##### In-Progress/Unresolved Issues
+
+###### There are currently no reported issues
+
+##### [Submit an Issue](mailto:devanagari-documentation@gmail.com)

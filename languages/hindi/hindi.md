@@ -21,7 +21,7 @@ ISO 639-3 Language Code: **hin**
 [Glottolog](https://glottolog.org/resource/languoid/id/hind1269){:target="_blank"}  
 [ScriptSource](https://www.scriptsource.org/cms/scripts/page.php?item_id=language_detail&key=hin){:target="_blank"}
 
------
+---
 
 
 ## Examples
@@ -123,7 +123,7 @@ Example of Hindi text
 [http://www.jw.org](http://www.jw.org/hi/){:target="_blank"}
 
 
------
+---
 
 ## Bibliography / Resources
 
@@ -164,5 +164,10 @@ Snell, Rupert and Weightman, Simon. 2003. *Teach yourself Hindi.* [Chicago]: McG
 Ramyead, L.P. 1985. *The establishment and cultivation of modern standard Hindi in Mauritius.* Moka (Mauritius): Mahatma Gandhi Inst.
 
 
+---
 
+##### In-Progress/Unresolved Issues
 
+###### There are currently no reported issues
+
+##### [Submit an Issue](mailto:devanagari-documentation@gmail.com)

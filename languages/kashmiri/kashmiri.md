@@ -20,7 +20,7 @@ ISO 639-3 Language Code: **kas**
 [ScriptSource](https://www.scriptsource.org/cms/scripts/page.php?item_id=language_detail&key=kas){:target="_blank"}  
 [r12a](https://r12a.github.io/scripts/devanagari/kashmiri){:target="_blank"}
 
------
+---
 
 ## Examples
 
@@ -87,7 +87,7 @@ Example of Kashmiri text
 [http://www.devanaagarii.net](http://www.devanaagarii.net/ks/){:target="_blank"}
 
 
------
+---
 
 ## Bibliography / Resources
 
@@ -142,3 +142,12 @@ George A. Grierson. 1919. *Indo-Aryan Family: North-Western Group: Specimens of 
 Braj B. Kachru. 1969. Kashmiri and other Dardic languages. In Thomas A. Sebeok (ed.), *Linguistics in South Asia*, 284-306. Berlin: Mouton de Gruyter.
 
 Koul, Omkar N. and Umarani, P. 1998. A computational analysis of Kashmiri. *South Asian Language Review* VIII. 71-83.
+
+
+---
+
+##### In-Progress/Unresolved Issues
+
+###### There are currently no reported issues
+
+##### [Submit an Issue](mailto:devanagari-documentation@gmail.com)

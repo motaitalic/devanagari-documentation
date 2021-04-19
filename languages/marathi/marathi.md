@@ -22,7 +22,7 @@ ISO 639-3 Language Code: **mar**
 [ScriptSource](https://www.scriptsource.org/cms/scripts/page.php?item_id=language_detail&key=mar){:target="_blank"}
 
 
------
+---
 
 ## Examples
 
@@ -110,7 +110,7 @@ Example of Marathi text
 [http://www.marathivaibhav.co](http://www.marathivaibhav.com){:target="_blank"}
 
 
------
+---
 
 ## Bibliography / Resources
 
@@ -137,3 +137,12 @@ Deshpande, Madhav K. and Deshpande, Prakash M. 2001. *Marathi-English dictionary
 George A. Grierson. 1905. *Indo-Aryan Family: Southern Group: Specimens of the Marāṭhī Language.* (Linguistic Survey of India, VII.) Calcutta: Office of the Superintendent of Government Printing. 421pp.
 
 Wali, Kashi. 2006. *Marathi: a study of comparative South Asian languages.* Indian Institute of Language Studies.
+
+
+---
+
+##### In-Progress/Unresolved Issues
+
+###### There are currently no reported issues
+
+##### [Submit an Issue](mailto:devanagari-documentation@gmail.com)

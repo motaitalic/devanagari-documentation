@@ -25,7 +25,7 @@ Devanagari combines features of purely syllabic writing systems with alphabetic 
 
 The Devanagari syllabary arranged on the basis of the Sanskrit phonological system is called varnamala (which literally translates to ‘garland of letters’) and is divided into 14 vowel characters (svara), 33 consonant characters (vyanjana), and two modifiers (anusvara and visarga) that are placed at the end with the vowels in the syllabary. In modern usage, however, and depending on the language the script is used for, the number of vowels varies and is usually limited to ten or twelve. Each unit of graphemic symbols in the syllabary is called ‘akshara’ which represent syllables: all consonants have an ‘inherent vowel’ ‘a’. The virama sign is used in order to indicate the removal of this inherent vowel. Devanagari is written from left to right, top to bottom.
 
------
+---
 &nbsp;  
 
 #### Devanagari Vowels (independent)
@@ -123,7 +123,7 @@ Characteristics like the opposite angles of stress and features such as absence 
 ![alt text](/images/08.png)
 
 
------
+---
 &nbsp;  
 
 #### Official Unicode Consortium Code Charts

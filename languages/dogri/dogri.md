@@ -19,7 +19,7 @@ ISO 639-3 Language Code: **dgo**
 [Glottolog](https://glottolog.org/resource/languoid/id/dogr1250){:target="_blank"}  
 [ScriptSource](https://www.scriptsource.org/cms/scripts/page.php?item_id=language_detail&key=doi){:target="_blank"}
 
------
+---
 
 ## Examples
 
@@ -89,7 +89,7 @@ Example of Dogri text
 [http://www.ntm.org.in](http://www.ntm.org.in/languages/dogri/aimndobj.aspx){:target="_blank"}
 
 
------
+---
 
 ## Bibliography / Resources
 
@@ -106,3 +106,12 @@ Gosvāmī, Om. 2000. *Ḍogrī-hindī śabdakoś.* Jammū: J&K Academy of Art, C
 George A. Grierson. 1916. *Indo-Aryan Family: Central Group: Specimens of Western Hindī and Pañjābī.* (Linguistic Survey of India, IX(I).) Calcutta: Office of the Superintendent of Government Printing. 834pp.
 
 Jeremy D. Brightbill and Scott D. Turner. 2007. *A Sociolinguistic Survey of the Dogri Language, Jammu and Kashmir.* SIL Electronic Survey Reports. 2007-017. 29pp. SIL Electronic Survey Reports 2007-017. {http://www.sil.org/silesr/abstract.asp?ref=2007-017}
+
+
+---
+
+##### In-Progress/Unresolved Issues
+
+###### There are currently no reported issues
+
+##### [Submit an Issue](mailto:devanagari-documentation@gmail.com)

@@ -20,7 +20,7 @@ ISO 639-3 Language Code: **raj**
 [Glottolog](https://glottolog.org/resource/languoid/id/raja1256){:target="_blank"}  
 [ScriptSource](https://www.scriptsource.org/cms/scripts/page.php?item_id=language_detail&key=raj){:target="_blank"}
 
------
+---
 
 ## Examples
 
@@ -88,7 +88,7 @@ Example of Rajasthani text
 [http://incubator.wikimedia.org](http://incubator.wikimedia.org/wiki/Special:PrefixIndex/Wp/raj/){:target="_blank"}
 
 
------
+---
 
 ## Bibliography / Resources
 
@@ -133,3 +133,12 @@ A. N. Baldota. 1972. *Phonology and morphology of Marwadi language.* (MA thesis,
 Rāmakarṇa Āsopā. 1950 [1896]. *Māravāṛī vyākaraṇa.* Jaipur: Paṃ. Rāmakarṇa Āsopā Rājast̀hāna-vidyā Śodha Saṃsthāna. 120pp.
 
 Abraham, Binny and Kelsall, Juliana and Koshy, Binoy R. and Vimal Raj. 2012. *Sociolinguistic survey of selected Rajasthani speech varieties of Rajasthan, India, Volume 2: Mewari.* SIL Electronic Survey Reports 2012-030. 77.
+
+
+---
+
+##### In-Progress/Unresolved Issues
+
+###### There are currently no reported issues
+
+##### [Submit an Issue](mailto:devanagari-documentation@gmail.com)

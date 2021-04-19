@@ -279,8 +279,7 @@
       @include relative-font-size(1.375);
     }
   }
-
-  h4 {
+  h4, h6 {
     @include relative-font-size(1.25);
     font-weight: bold;
 
@@ -288,4 +287,40 @@
       @include relative-font-size(1.125);
     }
   }
-}
+
+  h5 {
+    @include relative-font-size(2.5);
+    font-weight: bold;
+    padding: 40px 0 10px 0;
+    margin: 0;
+    color: #21a119;
+
+    @include media-query($on-laptop) {
+      @include relative-font-size(1.75);
+    }
+  }
+
+  h5 a {
+    box-shadow:inset 0px 1px 0px 0px #a8a8a8;
+    background:linear-gradient(to bottom, #22a119 5%, #197a12 100%);
+    background-color:#22a119;
+    border-radius:3px;
+    border:1px solid #2dd122;
+    letter-spacing: 1px;
+    display:inline-block;
+    cursor:pointer;
+    color:#ffffff;
+    @include relative-font-size(1.5);
+    padding:6px 24px;
+    text-decoration:none;
+    }
+
+  h5 a:hover {
+    background:linear-gradient(to bottom, #197a12 5%, #22a119 100%);
+    background-color:#197a12;
+    }
+
+  h5 a:active {
+    background-color:#2dd122;
+    }
+  }

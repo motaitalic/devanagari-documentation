@@ -21,7 +21,7 @@ ISO 639-3 Language Code: **mai**
 [ScriptSource](https://www.scriptsource.org/cms/scripts/page.php?item_id=language_detail&key=mai){:target="_blank"}
 
 
------
+---
 
 ## Examples
 
@@ -98,7 +98,7 @@ Example of Maithili text
 [http://www.videha.co.in](http://www.videha.co.in/){:target="_blank"}
 
 
------
+---
 
 ## Bibliography / Resources
 
@@ -116,3 +116,11 @@ Masica, Colin P. 1991. *The Indo-Aryan Languages.* Cambridge, UK: Cambridge Univ
 
 Yadav, Ramawatar. 1984. *Maithili Phonetics and Phonology.* Mainz: Selden and Tamm.
 
+
+---
+
+##### In-Progress/Unresolved Issues
+
+###### There are currently no reported issues
+
+##### [Submit an Issue](mailto:devanagari-documentation@gmail.com)

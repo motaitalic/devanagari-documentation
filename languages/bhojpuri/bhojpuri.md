@@ -20,7 +20,7 @@ ISO 639-3 Language Code: **bho**
 [Glottolog](https://glottolog.org/resource/languoid/id/bhoj1244){:target="_blank"}  
 [Scriptsource](https://www.scriptsource.org/cms/scripts/page.php?item_id=language_detail&key=bho){:target="_blank"}
 
------
+---
 
 ## Examples
 
@@ -100,7 +100,7 @@ Example of Bhojpuri text
 [http://www.anjoria.com](http://www.anjoria.com/tatkakhabar/){:target="_blank"}
 
 
------
+---
 
 ## Bibliography / Resources
 
@@ -151,3 +151,12 @@ Pandey, Shruti. 2003. *A comparative study of Bhojpuri and Bengali.* Varanasi: V
 Mohit, Dimlalah. 1994. *Morisas kî bhojpurî mem pracalit lokoktiyam, muhâvare, gît, paheliyam aur kahâniyam* (Current popular sayings, idioms, songs, riddles and stories in Mauritian Bhojpuri) Bel Air (Mauritius): Self-published.
 
 Domingue, N. 1984. *Syntactic innovations in Mauritian Bhojpuri.* McGill working papers in linguistics/Cahiers linguistiques de McGill 1.
+
+
+---
+
+##### In-Progress/Unresolved Issues
+
+###### There are currently no reported issues
+
+##### [Submit an Issue](mailto:devanagari-documentation@gmail.com)

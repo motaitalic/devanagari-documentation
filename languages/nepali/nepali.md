@@ -125,7 +125,7 @@ Example of Nepali text
 [http://www.weeklynepal.com](http://www.weeklynepal.com/newsite2/component/content/4751.html?task=view){:target="_blank"} 
 
 
------
+---
 
 ## Bibliography / Resources
 
@@ -154,3 +154,12 @@ Campbell, George. 1874. Specimens of the languages of India, including those of 
 Hari, Maria. 1973. Clause, sentence, and discourse patterns in selected languages of Nepal, part 3. In  Austin Hale (ed.) In Austin Hale, ed. 3-52pp.
 
 Hari, Anna Maria. 1971. Conversational Nepali. Kathmandu: Summer Institute of Linguistics and Institute of Nepal Studies, Tribhuvan University.
+
+
+---
+
+##### In-Progress/Unresolved Issues
+
+###### There are currently no reported issues
+
+##### [Submit an Issue](mailto:devanagari-documentation@gmail.com)

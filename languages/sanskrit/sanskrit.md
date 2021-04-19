@@ -31,7 +31,7 @@ ISO 639-3 Language Code: **san**
 [ScriptSource](https://www.scriptsource.org/cms/scripts/page.php?item_id=entry_detail&uid=nb2xvfymgv){:target="_blank"}
 
 
------
+---
 
 ## Examples
 
@@ -117,7 +117,7 @@ Example of Sanskrit text
 [http://www.chandamama.com](http://www.chandamama.com/archive/SAN/storyArchive.htm){:target="_blank"}
 
 
------
+---
 
 ## Bibliography / Resources
 
@@ -142,3 +142,12 @@ Patrick McCartney. 2017. Jhirī: A 'Sanskrit-speaking' Village in Madhya Pradesh
 Burrow, Thomas. 2001. *The Sanskrit language.* Delhi: Motilal Banarsidass Publ. ix+438pp.
 
 Schäufele, Steven William. 1991. *Free word-order syntax: The challenge from Vedic Sanskrit to contempory formal syntactic theory.* (Doctoral dissertation, University of Illinois at Urbana-Champaign; 333pp.)
+
+
+---
+
+##### In-Progress/Unresolved Issues
+
+###### There are currently no reported issues
+
+##### [Submit an Issue](mailto:devanagari-documentation@gmail.com)

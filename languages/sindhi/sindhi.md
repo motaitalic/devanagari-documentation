@@ -22,7 +22,7 @@ ISO 639-3 Language Code: **snd**
 [ScriptSource](https://www.scriptsource.org/cms/scripts/page.php?item_id=language_detail&key=snd){:target="_blank"}
 
 
------
+---
 
 ## Examples
 
@@ -103,7 +103,7 @@ Example of Sindhi text
 [http://sindhacademy.wordpress.com](http://sindhacademy.wordpress.com/2011/02/18/%e0%a4%97%e0%a5%8b%e0%a4%ae%e0%a5%80/){:target="_blank"}
 
 
------
+---
 
 ## Bibliography / Resources
 
@@ -152,3 +152,12 @@ E. B. Eastwick. 1843. *A vocabulary of the Sindi language.* Bombay. 103pp.
 George A. Grierson. 1919. *Indo-Aryan Family: North-Western Group: Specimens of the Sindhi and Lahnda.* (Linguistic Survey of India, VIII(I).) Calcutta: Office of the Superintendent of Government Printing. 579pp.
 
 Burton, Richard Francis [Capt.]. 1851. [Specimens of the Sindhi language]. In *Sindh, and the races that inhabit the valley of the Indus,* 433. London: W.H. Allen & Co.
+
+
+---
+
+##### In-Progress/Unresolved Issues
+
+###### There are currently no reported issues
+
+##### [Submit an Issue](mailto:devanagari-documentation@gmail.com)

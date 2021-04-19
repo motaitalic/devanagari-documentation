@@ -20,7 +20,7 @@ ISO 639-3 Language Code: **kok**
 [ScriptSource](https://www.scriptsource.org/cms/scripts/page.php?item_id=language_detail&key=gom){:target="_blank"}
 
 
------
+---
 
 ## Examples
 
@@ -86,7 +86,7 @@ Example of Konkani text
 [http://www.konkaniparishad.org](http://www.konkaniparishad.org/blog/author/gurubaliga/){:target="_blank"}
 
 
------
+---
 
 ## Bibliography / Resources
 
@@ -111,3 +111,12 @@ Ghatage, A.M. 1965. *Kuḍāli.* (A survey of Marathi dialects, II.) Bombay: Sta
 Major, Mehru Manecksha. 1979. *Phonology of the Christian Goan Konkani Dialect (as spoken in Nagpur).* Nagpur: Nagpur Vidyapeeth Mudranalaya. 84pp. (English or Konkani (Roman) Additions and corrections in ms. Bibliography: v. 1, p. 84.)
 
 George A. Grierson. 1905. *Indo-Aryan Family: Southern Group: Specimens of the Marāṭhī Language.* (Linguistic Survey of India, VII.) Calcutta: Office of the Superintendent of Government Printing. 421pp.
+
+
+---
+
+##### In-Progress/Unresolved Issues
+
+###### There are currently no reported issues
+
+##### [Submit an Issue](mailto:devanagari-documentation@gmail.com)
