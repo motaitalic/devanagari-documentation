@@ -321,6 +321,15 @@
     }
 
   h5 a:active {
-    background-color:#2dd122;
+    background:#26b71c;
     }
+  }
+
+  ::selection {
+  	background: #21a119;
+  	color: #000;
+  }
+  ::-moz-selection {
+  	background: #21a119;
+  	color: #000;
   }
