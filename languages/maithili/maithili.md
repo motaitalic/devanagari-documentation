@@ -119,8 +119,8 @@ Yadav, Ramawatar. 1984. *Maithili Phonetics and Phonology.* Mainz: Selden and Ta
 
 ---
 
-##### In-Progress/Unresolved Issues
+##### In-Progress/Unresolved Issues  
 
-###### There are currently no reported issues
+There are currently no reported issues
 
 ##### [Submit an Issue](mailto:devanagari-documentation@gmail.com)

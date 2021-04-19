@@ -110,8 +110,8 @@ Jeremy D. Brightbill and Scott D. Turner. 2007. *A Sociolinguistic Survey of the
 
 ---
 
-##### In-Progress/Unresolved Issues
+##### In-Progress/Unresolved Issues  
 
-###### There are currently no reported issues
+There are currently no reported issues
 
 ##### [Submit an Issue](mailto:devanagari-documentation@gmail.com)

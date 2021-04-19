@@ -158,8 +158,8 @@ Hari, Anna Maria. 1971. Conversational Nepali. Kathmandu: Summer Institute of Li
 
 ---
 
-##### In-Progress/Unresolved Issues
+##### In-Progress/Unresolved Issues  
 
-###### There are currently no reported issues
+There are currently no reported issues
 
 ##### [Submit an Issue](mailto:devanagari-documentation@gmail.com)

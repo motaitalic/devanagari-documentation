@@ -166,8 +166,8 @@ Ramyead, L.P. 1985. *The establishment and cultivation of modern standard Hindi 
 
 ---
 
-##### In-Progress/Unresolved Issues
+##### In-Progress/Unresolved Issues  
 
-###### There are currently no reported issues
+There are currently no reported issues
 
 ##### [Submit an Issue](mailto:devanagari-documentation@gmail.com)
