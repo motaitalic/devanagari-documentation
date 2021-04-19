@@ -114,10 +114,11 @@ Jeremy D. Brightbill and Scott D. Turner. 2007. *A Sociolinguistic Survey of the
 
 #### 1)
 ![alt text](/images/Dogri-issue-01.png)  
-Description of the problem
+A different tone mark is required to align at headline level, different from an apostrophe. The tone mark represents high falling tone while apostrophe is used as syncopation mark.
 
 #### 2)
-![alt text](/images/Dogri-issue-02.png)  
-Description of the problem
+![alt text](/images/Dogri-issue-02a.png)  
+![alt text](/images/Dogri-issue-02b.png)  
+Devolved halant forms are needed to distinguish tone and pronunciation.
 
 ##### [Submit an Issue](mailto:devanagari.documentation@gmail.com)

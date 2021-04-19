@@ -148,6 +148,8 @@ Schäufele, Steven William. 1991. *Free word-order syntax: The challenge from Ve
 
 ##### In-Progress/Unresolved Issues  
 
-There are currently no reported issues
+#### 1)
+![alt text](/images/Sanskrit-issue-01.png)  
+Possibly Windows shaping engine issue: Glyphs $1CE9, $1CEA, $1CEB, $1CEC cannot be anchored or precisely positioned for any combination using GPOS / GSUB: displays separately with circular $25CC
 
 ##### [Submit an Issue](mailto:devanagari.documentation@gmail.com)
