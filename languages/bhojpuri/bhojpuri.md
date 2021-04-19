@@ -155,8 +155,8 @@ Domingue, N. 1984. *Syntactic innovations in Mauritian Bhojpuri.* McGill working
 
 ---
 
-##### In-Progress/Unresolved Issues
-
+##### In-Progress/Unresolved Issues  
+  
 ###### There are currently no reported issues
 
 ##### [Submit an Issue](mailto:devanagari-documentation@gmail.com)
