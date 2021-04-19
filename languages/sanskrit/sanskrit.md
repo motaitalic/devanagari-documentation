@@ -150,4 +150,4 @@ Schäufele, Steven William. 1991. *Free word-order syntax: The challenge from Ve
 
 There are currently no reported issues
 
-##### [Submit an Issue](mailto:devanagari-documentation@gmail.com)
+##### [Submit an Issue](mailto:devanagari.documentation@gmail.com)

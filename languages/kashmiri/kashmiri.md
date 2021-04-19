@@ -150,4 +150,4 @@ Koul, Omkar N. and Umarani, P. 1998. A computational analysis of Kashmiri. *Sout
 
 There are currently no reported issues
 
-##### [Submit an Issue](mailto:devanagari-documentation@gmail.com)
+##### [Submit an Issue](mailto:devanagari.documentation@gmail.com)

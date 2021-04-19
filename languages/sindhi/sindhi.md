@@ -160,4 +160,4 @@ Burton, Richard Francis [Capt.]. 1851. [Specimens of the Sindhi language]. In *S
 
 There are currently no reported issues
 
-##### [Submit an Issue](mailto:devanagari-documentation@gmail.com)
+##### [Submit an Issue](mailto:devanagari.documentation@gmail.com)

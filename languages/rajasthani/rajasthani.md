@@ -141,4 +141,4 @@ Abraham, Binny and Kelsall, Juliana and Koshy, Binoy R. and Vimal Raj. 2012. *So
 
 There are currently no reported issues
 
-##### [Submit an Issue](mailto:devanagari-documentation@gmail.com)
+##### [Submit an Issue](mailto:devanagari.documentation@gmail.com)

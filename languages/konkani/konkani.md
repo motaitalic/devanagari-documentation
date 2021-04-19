@@ -119,4 +119,4 @@ George A. Grierson. 1905. *Indo-Aryan Family: Southern Group: Specimens of the M
 
 There are currently no reported issues
 
-##### [Submit an Issue](mailto:devanagari-documentation@gmail.com)
+##### [Submit an Issue](mailto:devanagari.documentation@gmail.com)

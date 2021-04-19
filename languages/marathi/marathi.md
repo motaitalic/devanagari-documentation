@@ -145,4 +145,4 @@ Wali, Kashi. 2006. *Marathi: a study of comparative South Asian languages.* Indi
 
 There are currently no reported issues
 
-##### [Submit an Issue](mailto:devanagari-documentation@gmail.com)
+##### [Submit an Issue](mailto:devanagari.documentation@gmail.com)

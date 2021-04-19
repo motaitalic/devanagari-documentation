@@ -123,4 +123,4 @@ Yadav, Ramawatar. 1984. *Maithili Phonetics and Phonology.* Mainz: Selden and Ta
 
 There are currently no reported issues
 
-##### [Submit an Issue](mailto:devanagari-documentation@gmail.com)
+##### [Submit an Issue](mailto:devanagari.documentation@gmail.com)

@@ -42,7 +42,7 @@ Universal Declaration of Human Rights: **Dogri**
 
 #### Handwriting Sample
 
-![alt text](/images/Dogri-handwriting-01.png)
+![Dogri Handwriting Sample](/images/Dogri-handwriting-01.png)
 [Full Image](/images/Dogri-handwriting-01.jpg){:target="_blank"} *via:* [@khajuriamanu](https://twitter.com/khajuriamanu/status/1070223433680781312){:target="_blank"}  
 &nbsp;  
 
@@ -112,6 +112,12 @@ Jeremy D. Brightbill and Scott D. Turner. 2007. *A Sociolinguistic Survey of the
 
 ##### In-Progress/Unresolved Issues  
 
-There are currently no reported issues
+#### 1)
+![alt text](/images/Dogri-issue-01.png)  
+Description of the problem
 
-##### [Submit an Issue](mailto:devanagari-documentation@gmail.com)
+#### 2)
+![alt text](/images/Dogri-issue-02.png)  
+Description of the problem
+
+##### [Submit an Issue](mailto:devanagari.documentation@gmail.com)

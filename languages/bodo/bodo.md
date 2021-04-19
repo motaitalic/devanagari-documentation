@@ -174,4 +174,4 @@ Bara, Madhu Rāma. 2001. *The historical development of the Boro language: Madhu
 
 There are currently no reported issues
 
-##### [Submit an Issue](mailto:devanagari-documentation@gmail.com)
+##### [Submit an Issue](mailto:devanagari.documentation@gmail.com)
