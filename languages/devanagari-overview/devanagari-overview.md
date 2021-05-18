@@ -78,7 +78,7 @@ Depending on the sounds to be represented, these combinations can occur between 
 The character set in a Devanagari typeface is thus a somewhat indeterminate issue. The number of conjuncts (i.e. consonant combinations) included in the character sets of different typefaces depends largely on the design, the frequency of the occurrence of the conjuncts, and the language coverage aimed for. Regional preferences for particular characters also means that alternate forms are required for specific characters and their combinations. The glyph count in fonts can vary from 400 to 1000 depending on these factors, and not all forms of a particular combination may always be available in a given typeface.
 
 
-### Glyph Requirements for each language
+### Glyph Requirements for Each Language
 
 In order to define the required characters & glyphs to render each of the documented languages, we have taken the minimal Hindi character set as the base. Any additional glyphs for other languages are noted when necessary.
 
