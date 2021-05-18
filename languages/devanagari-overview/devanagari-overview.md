@@ -82,8 +82,9 @@ The character set in a Devanagari typeface is thus a somewhat indeterminate issu
 
 In order to define the required characters & glyphs to render each of the documented languages, we have taken the minimal Hindi character set as the base. Any additional glyphs for other languages are noted when necessary.
 
+Language | Glyphs
 --- | ---
-Hindi | Vowels:
+Hindi | Vowels:  
 अ आ इ ई उ ऊ ऋ ऍ ऎ ए ऐ ऑ ऒ ओ औ
 ◌ा ि ◌ी ◌ु ◌ू ◌ृ 	ॄ ◌ॅ ◌े ◌ै ◌ॊ ◌ो ◌ौ ◌ं ◌ः
   
