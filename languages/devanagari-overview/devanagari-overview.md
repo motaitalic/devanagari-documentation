@@ -92,13 +92,13 @@ In order to define the required characters & glyphs to render each of the docume
 | Bodo | ’ |
 | Kashmiri | ॳ ॴ ॶ ॷ ऎ ऒ ॵ च़ छ़  ॖ  ॗ  ॆ  ऺ  ऻ  ॊ  ॏ |
 | Konkani | ळ ळ्◌ ऱ्ह |
-| Marathi | ॲ ळ ळ्◌ ऱ्ह ल→(alt) ल्◌→(alt) श→(alt) श◌→(alt) १→(alt) ५→(alt) ८→(alt) ९→(alt) |
-| Nepali | झ→(alt) झ्◌→(alt) १→(alt) ५→(alt) ८→(alt) ९→(alt) |
+| Marathi | ॲ ळ ळ्◌ ऱ्ह ल(alt) ल्◌(alt) श(alt) श◌(alt) १(alt) ५(alt) ८(alt) ९(alt) |
+| Nepali | झ(alt) झ्◌(alt) १(alt) ५(alt) ८(alt) ९(alt) |
 | Rajasthani | ॸ ळ ळ्◌ |
 | Sindhi | ॻ ॼ ॾ ॿ |
 | Sanskrit | ॠ ऌ ॡ ॢ ॣ ऀ ॕ ॑ ◌॒ |
 
-This list is also available as a [csv file](/Glyph-List.csv){:target="_blank"} (including Unicode points).
+This list is also available as a [.CSV file](/Glyph-List.csv){:target="_blank"} (including Unicode points).
 
 
 ### Comparison with Latin
