@@ -78,6 +78,36 @@ Depending on the sounds to be represented, these combinations can occur between 
 The character set in a Devanagari typeface is thus a somewhat indeterminate issue. The number of conjuncts (i.e. consonant combinations) included in the character sets of different typefaces depends largely on the design, the frequency of the occurrence of the conjuncts, and the language coverage aimed for. Regional preferences for particular characters also means that alternate forms are required for specific characters and their combinations. The glyph count in fonts can vary from 400 to 1000 depending on these factors, and not all forms of a particular combination may always be available in a given typeface.
 
 
+### Glyph Requirements for each language
+
+In order to define the required characters & glyphs to render each of the documented languages, we have taken the minimal Hindi character set as the base. Any additional glyphs for other languages are noted when necessary.
+
+| Hindi | Vowels:
+अ आ इ ई उ ऊ ऋ ऍ ऎ ए ऐ ऑ ऒ ओ औ
+◌ा ि ◌ी ◌ु ◌ू ◌ृ 	ॄ ◌ॅ ◌े ◌ै ◌ॊ ◌ो ◌ौ ◌ं ◌ः
+  
+Consonants:  
+क ख ग घ ङ च छ ज झ ञ ट ठ ड ढ ण त थ द ध न प फ ब भ म य र ल व श ष स ह  
+  
+Half forms:  
+क्◌ ख्◌ ग्◌ घ्◌ च्◌ ज्◌ झ्◌ ञ्◌ ण्◌ त्◌ थ्◌ ध्◌ न्◌ प्◌ फ्◌ ब्◌ भ्◌ म्◌ य्◌ र्◌ ल्◌ व्◌ श्◌ ष्◌ स्◌ ह्◌  
+  
+Figures:  
+० १ २ ३ ४ ५ ६ ७ ८ ९  
+  
+Other Marks/Punctuation:  
+	़ ऽ 	् । ॥ ॰ ॽ ࿕ ॐ 	ृ |
+| Bodo | ’ |
+| Kashmiri | ॳ ॴ ॶ ॷ ऎ ऒ ॵ च़ छ़ 	ॖ 	ॗ 	ॆ 	ऺ 	ऻ 	ॊ 	ॏ |
+| Konkani | ळ ळ्◌ ऱ्ह |
+| Marathi | ॲ ळ ळ्◌ ऱ्ह ल→(alt) ल्◌→(alt) श→(alt) श◌→(alt) १→(alt) ५→(alt) ८→(alt) ९→(alt) |
+| Nepali | झ→(alt) झ्◌→(alt) १→(alt) ५→(alt) ८→(alt) ९→(alt) |
+| Rajasthani | ॸ ळ ळ्◌ |
+| Sindhi | ॻ ॼ ॾ ॿ |
+| Sanskrit | ॠ ऌ ॡ 	ॢ 	ॣ 	ऀ 	ॕ 	॑ 	॒ |
+
+This list is also available as a [csv file](/Glyph-List.csv) (including Unicode points).
+
 ### Comparison with Latin
 
 The traditional stress in Devanagari writing derives from the reed or bamboo pen, which is cut at an angle opposite to that of the Latin broad-nib pen. This is a critical difference as it means that at the junction where a rounded stroke meets the vertical, the joint thickens instead of thinning. This thick joining is a characteristic feature of the texture of high contrast Devanagari, and in a conventional setting it is crucial for its legibility. Thinning the joints in imitation of Latin stress results in a ‘reversed contrast’ style that makes for odd effects in text. Like any design feature, though, reversed contrast can be intentionally and purposefully utilised in display settings.
