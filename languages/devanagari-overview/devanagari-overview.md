@@ -98,7 +98,7 @@ In order to define the required characters & glyphs to render each of the docume
 | Sindhi | ॻ ॼ ॾ ॿ |
 | Sanskrit | ॠ ऌ ॡ ॢ ॣ ऀ ॕ ॑ ◌॒ |
 
-This list is also available as a [.CSV file](/Glyph-List.csv){:target="_blank"} (including Unicode points).
+This list is also available as a [.CSV file](/Glyph-List.csv){:target="_blank"} which also includes relevant Unicodes.
 
 
 ### Comparison with Latin
