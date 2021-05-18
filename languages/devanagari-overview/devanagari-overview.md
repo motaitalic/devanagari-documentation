@@ -102,7 +102,7 @@ Half forms:
 | Sindhi | ॻ ॼ ॾ ॿ |
 | Sanskrit | ॠ ऌ ॡ ॢ ॣ ऀ ॕ ॑ ◌॒ |
 
-This list is also available as a [csv file](/Glyph-List.csv) (including Unicode points).
+This list is also available as a [csv file](/Glyph-List.csv){:target="_blank"} (including Unicode points).
 
 
 ### Comparison with Latin
