@@ -82,7 +82,8 @@ The character set in a Devanagari typeface is thus a somewhat indeterminate issu
 
 In order to define the required characters & glyphs to render each of the documented languages, we have taken the minimal Hindi character set as the base. Any additional glyphs for other languages are noted when necessary.
 
-| Hindi | Vowels:
+--- | ---
+Hindi | Vowels:
 अ आ इ ई उ ऊ ऋ ऍ ऎ ए ऐ ऑ ऒ ओ औ
 ◌ा ि ◌ी ◌ु ◌ू ◌ृ 	ॄ ◌ॅ ◌े ◌ै ◌ॊ ◌ो ◌ौ ◌ं ◌ः
   
@@ -96,17 +97,22 @@ Figures:
 ० १ २ ३ ४ ५ ६ ७ ८ ९  
   
 Other Marks/Punctuation:  
-	़ ऽ 	् । ॥ ॰ ॽ ࿕ ॐ 	ृ |
-| Bodo | ’ |
-| Kashmiri | ॳ ॴ ॶ ॷ ऎ ऒ ॵ च़ छ़ 	ॖ 	ॗ 	ॆ 	ऺ 	ऻ 	ॊ 	ॏ |
-| Konkani | ळ ळ्◌ ऱ्ह |
-| Marathi | ॲ ळ ळ्◌ ऱ्ह ल→(alt) ल्◌→(alt) श→(alt) श◌→(alt) १→(alt) ५→(alt) ८→(alt) ९→(alt) |
-| Nepali | झ→(alt) झ्◌→(alt) १→(alt) ५→(alt) ८→(alt) ९→(alt) |
-| Rajasthani | ॸ ळ ळ्◌ |
-| Sindhi | ॻ ॼ ॾ ॿ |
-| Sanskrit | ॠ ऌ ॡ 	ॢ 	ॣ 	ऀ 	ॕ 	॑ 	॒ |
+	़ ऽ 	् । ॥ ॰ ॽ ࿕ ॐ 	ृ
+
+Bodo | ’
+
+Kashmiri | ॳ ॴ ॶ ॷ ऎ ऒ ॵ च़ छ़ 	ॖ 	ॗ 	ॆ 	ऺ 	ऻ 	ॊ 	ॏ
+
+Konkani | ळ ळ्◌ ऱ्ह
+
+Marathi | ॲ ळ ळ्◌ ऱ्ह ल→(alt) ल्◌→(alt) श→(alt) श◌→(alt) १→(alt) ५→(alt) ८→(alt) ९→(alt) |
+Nepali | झ→(alt) झ्◌→(alt) १→(alt) ५→(alt) ८→(alt) ९→(alt) |
+Rajasthani | ॸ ळ ळ्◌
+Sindhi | ॻ ॼ ॾ ॿ
+Sanskrit | ॠ ऌ ॡ 	ॢ 	ॣ 	ऀ 	ॕ 	॑ 	॒ 
 
 This list is also available as a [csv file](/Glyph-List.csv) (including Unicode points).
+
 
 ### Comparison with Latin
 
