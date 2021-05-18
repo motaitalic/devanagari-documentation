@@ -87,25 +87,17 @@ Language | Glyphs
 Hindi | Vowels:  
 अ आ इ ई उ ऊ ऋ ऍ ऎ ए ऐ ऑ ऒ ओ औ
 ◌ा ि ◌ी ◌ु ◌ू ◌ृ 	ॄ ◌ॅ ◌े ◌ै ◌ॊ ◌ो ◌ौ ◌ं ◌ः
-  
 Consonants:  
 क ख ग घ ङ च छ ज झ ञ ट ठ ड ढ ण त थ द ध न प फ ब भ म य र ल व श ष स ह  
-  
 Half forms:  
 क्◌ ख्◌ ग्◌ घ्◌ च्◌ ज्◌ झ्◌ ञ्◌ ण्◌ त्◌ थ्◌ ध्◌ न्◌ प्◌ फ्◌ ब्◌ भ्◌ म्◌ य्◌ र्◌ ल्◌ व्◌ श्◌ ष्◌ स्◌ ह्◌  
-  
 Figures:  
 ० १ २ ३ ४ ५ ६ ७ ८ ९  
-  
 Other Marks/Punctuation:  
 	़ ऽ 	् । ॥ ॰ ॽ ࿕ ॐ 	ृ
-
 Bodo | ’
-
 Kashmiri | ॳ ॴ ॶ ॷ ऎ ऒ ॵ च़ छ़ 	ॖ 	ॗ 	ॆ 	ऺ 	ऻ 	ॊ 	ॏ
-
 Konkani | ळ ळ्◌ ऱ्ह
-
 Marathi | ॲ ळ ळ्◌ ऱ्ह ल→(alt) ल्◌→(alt) श→(alt) श◌→(alt) १→(alt) ५→(alt) ८→(alt) ९→(alt) |
 Nepali | झ→(alt) झ्◌→(alt) १→(alt) ५→(alt) ८→(alt) ९→(alt) |
 Rajasthani | ॸ ळ ळ्◌
